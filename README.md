@@ -38,9 +38,6 @@ Essential equipment lists, health and safety requirements, and digital data coll
 ### 📱 TODO: [Digital Data Collection](docs/data-collection/)
 Database standards, metadata requirements, and comparison of field data capture systems?
 
-### 🚁 TODO: [Drone/UAV Operations](docs/drone-operations/)
-Guidance on using UAVs for digital/ virtual outcrop data collection.
-
 ---
 
 ## 🚀 Getting Started
