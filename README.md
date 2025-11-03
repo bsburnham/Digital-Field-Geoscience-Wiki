@@ -31,7 +31,7 @@ Digital field geoscience practices are commonplace and rapidly evolving, yet kno
 ### 🎒 [Field Equipment & Safety](docs/field-equipment/)
 Essential equipment lists, health and safety requirements, and digital data collection tools.
 - [Essential Field Equipment](docs/field-equipment/essential-field-equipment.md)
-- [Health & Safety Equipment](docs/field-equipment/health-safety.md)
+- [Health & Safety Equipment](docs/field-equipment/health-and-safety.md)
 - [Digital Data Collection Equipment](docs/field-equipment/digital-equipment.md)
 
 ### 📱 TODO: [Digital Data Collection](docs/data-collection/)
