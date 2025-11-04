@@ -9,9 +9,9 @@
 
 ---
 
-## 🌍 About This Wiki
+## :earth_africa: About This Wiki
 
-Modern field-based geoscience is increasingly complimented by digital data from smartphone apps to uav-based photogrammetry. This wiki serves as an **open, collaborative resource** that captures current best practices, standards, and methods for digital fieldwork across the geoscience community.
+Modern field-based geoscience is increasingly complimented by digital data collected from smartphone apps to uav-based photogrammetry. This wiki serves as an **open, collaborative resource** that captures current best practices, standards, and methods for digital fieldwork across the geoscience community.
 
 **The Goal:** To provide freely accessible, community-maintained guidance on digital field data collection methods. 
 
@@ -19,10 +19,10 @@ Modern field-based geoscience is increasingly complimented by digital data from 
 
 Digital field geoscience practices are commonplace and rapidly evolving, yet knowledge about methods, workflows, and data standards remains scattered across pay-walled publications, repositories, and institutions. This wiki brings together community expertise in one accessible platform to document best practices, share workflows, and establish standards that benefit the entire geoscience community.
 
-- 📚 **Comprehensive Coverage** - Equipment, methods, standards, and workflows
+- 📚: **Comprehensive Coverage** - Equipment, methods, standards, and workflows
 - 🤝 **Community-Driven** - Built by and for the geoscience community
 - 🔄 **Living Document** - Continuously updated as technology evolves
-- 🆓 **Openly Accessible** - Free to use, modify, and share (CC BY-SA 4.0)
+- 🔓 **Openly Accessible** - Free to use, modify, and share (CC BY-SA 4.0)
 - 🎓 **Educational Focus** - Suitable for students, educators, and professionals
 
 ---
