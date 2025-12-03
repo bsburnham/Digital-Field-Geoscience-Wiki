@@ -1,7 +1,7 @@
 # Digital Field Geoscience Wiki
 
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
-[![Version](https://img.shields.io/badge/version-0.1-blue.svg)](https://github.com/bsburnham/Digital-Field-Geoscience-Wiki)
+[![Version](https://img.shields.io/badge/version-1.0-blue.svg)](https://github.com/bsburnham/Digital-Field-Geoscience-Wiki)
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)
 
 **A community-driven wiki capturing best practices for digital field geoscience data collection**
