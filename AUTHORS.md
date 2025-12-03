@@ -15,8 +15,8 @@ The following individuals participated in the initial hackathon that launched th
 
 Current maintainers responsible for reviewing contributions and maintaining the wiki:
 
-- **Brian Burnham** - VRGeoscience Limited - Project lead and primary maintainer
-- **David Hodgetts** - VRGeoscience Limited - Project lead and primary maintainer
+- **Brian Burnham** - VRGeoscience Limited 
+- **David Hodgetts** - VRGeoscience Limited
 
 Please volunteer to be a maintainer to make this resource as broad as possible.
 
