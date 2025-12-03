@@ -14,6 +14,10 @@ Modern field-based geoscience is increasingly complimented by digital data colle
 
 **The Goal:** To provide freely accessible, community-maintained guidance on digital field data collection methods.
 
+### Origin Story
+
+This wiki was created during a hackathon at the Digital Geoscience 2025 conference, bringing together experts in digital field methods to capture current best practices. The goal was to create a freely accessible, community-maintained resource that evolves with technology and methods.
+
 ### Why This Wiki?
 
 Digital field geoscience practices are commonplace and rapidly evolving, yet knowledge about methods, workflows, and data standards remains scattered across pay-walled publications, repositories, and institutions. This wiki brings together community expertise in one accessible platform to document best practices, share workflows, and establish standards that benefit the entire geoscience community.
@@ -66,27 +70,9 @@ Have questions? Want to suggest new content? Join our community discussions:
 
 ---
 
-## 📄 About This Project
-
-### Origin Story
-
-This wiki was created during a hackathon at the Digital Geoscience 2025 conference, bringing together experts in digital field methods to capture current best practices. The goal was to create a freely accessible, community-maintained resource that evolves with technology and methods.
-
-### Version Information
-
-- **Current Version:** 0.1 (Initial Release)
-- **Last Updated:** November 2025
-- **Status:** Active development, community contributions welcome
-
 ### License
 
 This wiki is licensed under [Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
-
-[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
-
-[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
-[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
-[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 
 ---
 
